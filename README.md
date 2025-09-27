@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author : prachi chavan
+author : prachi ravindra chavan 
